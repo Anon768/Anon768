@@ -2,8 +2,9 @@
 
 Hi 👋, I'm Full-Stack Developer 💻, UX/UI Designer 🎨, Linux Administrator 🐧, Sysadmin  🧠️ And Ethical Hacker 🖥️
 - Cyber Security: Mobile/Web
-- Programming Language: JavaScript, Python, PHP, C/C++, Lua, Dart
+- Programming Language: JavaScript, Python, PHP, C/C++, Dart, Java, Assembly, GO, Ruby
 - Database: MongoDB, SQL
+- Another: Lua, Docker, Flutter, Node.js, React.JS
 
 <!--
 **Anon768/Anon768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
